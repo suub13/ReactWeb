@@ -16,7 +16,7 @@ import useInputs from './hooks/useInputs'
 //                 name="email"
 //                 placeholder='이메일'
 //                 onChange={onChange}
-//                 value={email}
+//                 value={emadil}
 //             />
 //             <button onClick={onCreate}>등록</button>
 //         </div>
